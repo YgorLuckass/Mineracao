@@ -1,0 +1,25 @@
+# ── DATASET (arquivo muito grande para o GitHub) ──────────────────────────────
+male_players.csv
+*.csv
+
+# ── IMAGENS GERADAS PELO CÓDIGO ───────────────────────────────────────────────
+clusters_futebol.png
+tabela_clusters.png
+*.png
+
+# ── AMBIENTE VIRTUAL PYTHON ───────────────────────────────────────────────────
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# ── ARQUIVOS DO PYCHARM ───────────────────────────────────────────────────────
+.idea/
+*.iml
+
+# ── SISTEMA OPERACIONAL ───────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
