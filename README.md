@@ -45,7 +45,7 @@ O arquivo `male_players.csv` **não está incluído** no repositório por ser mu
 
 Faça o download gratuito no Kaggle:
 
-👉 [kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset)
+👉 https://www.kaggle.com/datasets/stefanoleone992/fifa-23-complete-player-dataset
 
 Após baixar, coloque o arquivo `male_players.csv` na **raiz do projeto** (mesma pasta do `codigo.py`).
 
